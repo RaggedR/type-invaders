@@ -1,10 +1,12 @@
 # Type Invaders
 
-A typing game where alien words fall from the sky and you destroy them by typing. Built as a single HTML file with canvas rendering and a retro CRT aesthetic.
+A typing game where alien words fall from the sky and you destroy them by typing. Built as a single HTML file with canvas rendering.
+
+**[Play it now](https://raggedr.github.io/type-invaders/)**
 
 ## How to Play
 
-1. Open `index.html` in a browser
+1. [Play online](https://raggedr.github.io/type-invaders/) or open `index.html` locally
 2. Press **Space** to start
 3. Type the falling letters/words to destroy them before they reach the ground
 4. **P** to pause, **N** to skip a level, **Escape** to clear your input buffer
